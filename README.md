@@ -1,0 +1,2 @@
+# ryrepository
+for mydokument
